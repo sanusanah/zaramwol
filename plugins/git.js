@@ -16,7 +16,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Githublink (Setup)  :    https://github.com/sanusanah/zaramwol*
 
-*Audio commads :   https://github.com/sanusanah/zaramwol/pikachu/tree/master/uploads*
+*Audio commads :   https://github.com/sanusanah/zaramwol/tree/master/uploads*
 
 *Sticker commads : https://github.com/sanusanah/zaramwol/tree/master/uploads*
 
