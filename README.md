@@ -1,6 +1,6 @@
-<a href="https://bit.ly/3koZRGY"><img src="IMG-20220130-WA0015.jpg" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="Zara.jpg" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="IMG-20220127-WA0019.jpg" alt="GIF" width="250" height="200"/>
+        <img src="23e6029c5285471338418f1556811ce9.jpg" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
