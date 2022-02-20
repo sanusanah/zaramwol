@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'zara mwol by *sanu*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
@@ -35,8 +35,8 @@ else if (Config.WORKTYPE == 'public') {
             return;
         }
 
-        if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
+        if (Config.PLK == 'default') 
+            await message.client.sendMessage(message.jid,'zara mwol created by *sanu*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
