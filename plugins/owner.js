@@ -24,7 +24,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (Config.PLK == 'default') {
 
-            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'zaramwol Bot created by *sanu*' , MessageType.text);
 
         }
 
@@ -50,7 +50,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (Config.PLK == 'default') {
 
-            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'zara Bot created by *sanu*' , MessageType.text);
 
         }
 
