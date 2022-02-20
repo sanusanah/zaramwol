@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+    r_text[0] = "https://i.imgur.com/q2brLTY.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -24,7 +24,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 NO COMMANDS AT THIS TIME
 ■□■□■□■□■□■□■□■□■□■□
 ═════💢zaramwol💢═════
-▣▣▣▣▣▣▣▣▣ameersuhail▣▣▣▣▣▣▣▣▣▣▣
+▣▣▣▣▣▣▣▣▣sanu▣▣▣▣▣▣▣▣▣▣▣
 `}) 
 
 }));
