@@ -5,13 +5,13 @@
 
 <div align="center">
 
-## [![ZARAMWOL](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+zaramwol+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![ZARAMWOL](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+zaramwol+WA+Bot+repo;Created+by+sanu+sanah;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/sanu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/sanusanah"><img title="Author" src="https://img.shields.io/badge/Author-sanusanah/zaramwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
