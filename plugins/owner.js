@@ -1,12 +1,16 @@
 const Asena = require('../events');
+
 const {MessageType} = require('@adiwajshing/baileys');
+
 const {spawnSync} = require('child_process');
+
 const Config = require('../config');
+
 const chalk = require('chalk');
 
 const Language = require('../language');
-const Lang = Language.getString('system_stats');
 
+const Lang = Language.getString('system_stats');
 
 if (Config.WORKTYPE == 'private') {
 
@@ -15,15 +19,23 @@ if (Config.WORKTYPE == 'private') {
         if (message.jid === '15369524516-1612300121@g.us') {
 
             return;
+
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'zara mwol by *sanu*' , MessageType.text);
+
+            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
+
         }
+
         else {
+
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
+
         }
+
     }));
+
 }
 
 else if (Config.WORKTYPE == 'public') {
@@ -33,13 +45,23 @@ else if (Config.WORKTYPE == 'public') {
         if (message.jid === '54218542512-1612300121@g.us') {
 
             return;
+
         }
 
-        if (Config.PLK == 'default') 
-            await message.client.sendMessage(message.jid,'zara mwol created by *sanu*' , MessageType.text);
+        if (Config.PLK == 'default') {
+
+            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
+
         }
+
         else {
+
             await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
+
         }
+
     }));
+
 }
+
+
