@@ -62,7 +62,7 @@
             "value": "^[.!;]"
         },
         "OWNER_NAME": {
-            "description": "reply for .owner ! give your details, Use => default, to change back.",
+            "description": "enter owner name and number here.",
             "required": false,
             "value": "default"
         },
