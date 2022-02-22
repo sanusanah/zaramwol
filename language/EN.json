@@ -73,7 +73,7 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Restarting...🧚‍♂️```",
+            "RESTART_MSG": "```Restarting Zara...🧚‍♂️```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -167,7 +167,7 @@
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*photo thaa mister!*",
-            "NO_API_KEY": "*Api key illa aliyaa*\n```remove.bg login for apikey```",
+            "NO_API_KEY": "*Api key illa aliyaa*\n```",
             "RBGING": "```Removing...```"
         },
         "scrapers": {
@@ -177,7 +177,7 @@
             "LANG": "Language",
             "FROM": "Translated Language",
             "RESULT": "Translate",
-            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
+            "TRANSLATE_ERROR": "❌ An error occured while translating!",
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
