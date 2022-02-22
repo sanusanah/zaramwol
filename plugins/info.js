@@ -26,10 +26,10 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
     ----- ` + Config.BOTSK + ` -----
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
-│❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.PLK + `
+│❖ *ᴀᴜᴛʜᴏʀ* : ` + -- + `
 │❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
 │❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
-│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
+│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : wa.me/918089915818
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
                ` + Config.BOTSK + `
