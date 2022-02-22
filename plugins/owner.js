@@ -56,7 +56,7 @@ else if (Config.WORKTYPE == 'public') {
 
         else {
 
-            await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.PLK + 'contact him for help', MessageType.text);
 
         }
 
