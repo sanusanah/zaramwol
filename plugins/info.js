@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `` + Config.BOTSK + ` *BOT CREATED BY* ` + Config.PLK +`
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `` + Config.BOTSK + ` *BOT CREATED BY SANU* ` + Config.PLK +`
     
     ----- ` + Config.BOTSK + ` -----
     
